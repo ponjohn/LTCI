@@ -1,0 +1,9 @@
+﻿
+body {background-color:#333333;}
+a:link          {color:#FF9900; background-color:transparent; text-decoration:underline}
+a:visited       {color:#FF6633; background-color:transparent; text-decoration:none}
+a:active        {color:#CC3300; background-color:transparent; text-decoration:underline}
+.style-name     {color:#CC3333; font-family: Arial,Helevtica,sans-serif; font-weight:bold; font-size:3em;}
+.style-menu     {color:#CCCCCC; font-family: Arial,Helevtica,sans-serif; font-weight:bold; font-size:small;}
+.style-divider  {color:#666666;}
+.style-copyright{color:#565656; font-family: Arial,Helevtica,sans-serif; font-weight:bold; ;}
